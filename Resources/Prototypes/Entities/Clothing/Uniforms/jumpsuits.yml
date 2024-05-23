@@ -1311,3 +1311,14 @@
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
+    
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitAgentDoubleOSevered
+  name: classic agent suit
+  description: This suit has been through all kinds of shaking and stirring.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/classicagent.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/classicagent.rsi
