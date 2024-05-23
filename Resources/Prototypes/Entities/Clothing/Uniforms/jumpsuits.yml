@@ -1314,7 +1314,7 @@
     
 - type: entity
   parent: ClothingUniformBase
-  id: ClothingUniformJumpsuitAgentDoubleOSevered
+  id: ClothingUniformJumpsuitAgentClassic
   name: classic agent suit
   description: This suit has been through all kinds of shaking and stirring.
   components:

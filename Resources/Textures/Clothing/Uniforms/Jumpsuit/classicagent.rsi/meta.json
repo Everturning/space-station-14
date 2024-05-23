@@ -1,6 +1,7 @@
 {
-    "copyright": "Created by Everturning on github, heavily inspired by the white tuxedo suit first worn by Sean Connery in Goldfinger.",
+    "version": 1,
     "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Everturning (github), heavily inspired by the tuxedo suit from James Bond",
     "size": {
         "x": 32,
         "y": 32
@@ -21,6 +22,5 @@
             "name": "inhand-right",
             "directions": 4
         }
-    ],
-    "version": 1
+    ]
 }
